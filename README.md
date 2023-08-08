@@ -1,3 +1,5 @@
-# Portfolio Site - VSCode Editor Layout
+## Portfolio Site
 
-This repository contains the code for my personal portfolio site designed with a Visual Studio Code (VSCode) editor layout. It showcases my projects and skills using HTML, Tailwind CSS, and JavaScript.
+# VSCode-Inspired Portfolio
+
+This repository contains my meticulously designed portfolio, taking inspiration from the layout and aesthetics of Visual Studio Code (VSCode). Crafted using Tailwind CSS, HTML, and JavaScript
